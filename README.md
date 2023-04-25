@@ -8,13 +8,23 @@
 
 
 ###  Domains of Interest:  
-- ⚡ Control Teory  
+-  🖋Control Teory  
   
 
-- ⚡ Machine Learning  
+-  🖋Machine Learning  
   
 
-- ⚡ Statistics  
+-  🖋Statistics  
   
 
-- ⚡ Algorithms  
+- 🖋Algorithms  
+  
+### My online profiles:  
+🔗https://github.com/MihaiTudor26  
+  
+
+🔗https://www.researchgate.net/profile/Mihai-Tudor-2  
+  
+
+🔗http://math.ucv.ro/cnaa/  
+  
