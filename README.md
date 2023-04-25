@@ -1,8 +1,3 @@
-
-
-<!--
-**MihaiTudor26/MihaiTudor26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hey 👋, I'm Mihai!  
 <div align="center">
 <img src="" align="center" style="width: 100%" />
@@ -25,4 +20,3 @@
   
 
 - ⚡ Algorithms  
-  
