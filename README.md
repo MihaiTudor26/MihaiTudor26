@@ -1,16 +1,28 @@
-### Hi there 👋
+
 
 <!--
 **MihaiTudor26/MihaiTudor26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hey 👋, I'm Mihai!  
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <div align="center">I'm currently Ph.D student 👨‍💻 in Mathematics at the Doctoral School of Science  at the University of Craiova.</div>  
+  
+
+
+
+###  Domains of Interest:  
+- ⚡ Control Teory  
+  
+
+- ⚡ Machine Learning  
+  
+
+- ⚡ Statistics  
+  
+
+- ⚡ Algorithms  
+  
