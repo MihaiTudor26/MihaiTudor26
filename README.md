@@ -37,4 +37,11 @@
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://github.com/MihaiTudor26/MihaiTudor26/blob/main/Numpy.png" alt="NumPy" height="90" /></a>  
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.com/MihaiTudor26/MihaiTudor26/blob/main/Pandas.png" alt="Pandas" height="90" /></a>  
+ <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://github.com/MihaiTudor26/MihaiTudor26/blob/main/Scikitlearn.png" alt="scikit-learn" height="50" /></a> 
+ 
+<a href="https://scipy.org/" target="_blank"><img style="margin: 10px" src="https://github.com/MihaiTudor26/MihaiTudor26/blob/main/SciPy.png" alt="Scipy" height="50" /></a> 
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://github.com/MihaiTudor26/MihaiTudor26/blob/main/matplotlib.png" alt="Matplotlib" height="50" /></a> 
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://github.com/MihaiTudor26/MihaiTudor26/blob/main/Seaborn.png" alt="Seaborn" height="50" /></a> 
+ 
 </div>  
