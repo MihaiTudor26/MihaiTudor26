@@ -12,6 +12,9 @@
   
 
 -  🖋Machine Learning  
+
+
+- 🖋Optimization
   
 
 -  🖋Statistics  
